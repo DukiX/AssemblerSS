@@ -1,0 +1,7 @@
+﻿  Asembler.cpp
+c:\users\dusan\documents\visual studio 2017\projects\proj\proj\asembler.cpp(329): warning C4018: '<': signed/unsigned mismatch
+c:\users\dusan\documents\visual studio 2017\projects\proj\proj\asembler.cpp(449): warning C4018: '<': signed/unsigned mismatch
+c:\users\dusan\documents\visual studio 2017\projects\proj\proj\asembler.cpp(507): warning C4018: '<': signed/unsigned mismatch
+c:\users\dusan\documents\visual studio 2017\projects\proj\proj\asembler.cpp(795): warning C4018: '<': signed/unsigned mismatch
+c:\users\dusan\documents\visual studio 2017\projects\proj\proj\asembler.cpp(1744): warning C4018: '<': signed/unsigned mismatch
+  proj.vcxproj -> C:\Users\Dusan\Documents\Visual Studio 2017\Projects\proj\Debug\proj.exe

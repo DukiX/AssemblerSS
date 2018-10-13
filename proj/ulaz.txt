@@ -1,0 +1,16 @@
+.data 
+a: .char 7
+.word 12345
+b: .word a
+.global b, c
+c: .long 123456789
+
+
+.text
+almov a,r7
+
+.rodata
+.skip 3
+m: .char 2
+
+.end

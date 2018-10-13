@@ -1,0 +1,43 @@
+Tabela simbola
+
+Ime	Sekcija	Vrednost	Vidljivost	Redni broj
+.data	.data	0		l		1
+.rodata	.rodata	0		l		6
+.text	.text	0		l		5
+a	.data	0		l		2
+b	.data	3		g		3
+c	.data	5		g		4
+m	.rodata	3		l		7
+und	und	-1		l		0
+
+
+Tabela sekcija
+
+Ime	Poc.Adresa	Velicina
+.data	1000		9
+.rodata	1013		4
+.text	1009		4
+
+Relokaciona tabela za Text sekciju:
+Offset	Tip	Vrednost
+2	Apsolutno		1
+
+
+Relokaciona tabela za Data sekciju:
+Offset	Tip	Vrednost
+3	Apsolutno		1
+
+
+Relokaciona tabela za Rodata sekciju:
+Offset	Tip	Vrednost
+
+
+.text code:
+F60F0000
+
+.data code:
+073930000015CD5B07
+
+.rodata code:
+00000002
+
